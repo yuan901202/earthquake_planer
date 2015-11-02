@@ -1,0 +1,167 @@
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac > #alignmentBox {
+  position: relative;
+  margin: 0 auto;
+  width: 1440px;
+  min-width: 1440px;
+  min-height: 900px;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac #s-Master_item_1 div.offset {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac #s-Master_item_1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 729px;
+  overflow: visible;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac #s-Master_item_2 div.offset {
+  position: relative;
+  top: -726px;
+  left: 0px;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac #s-Master_item_2 {
+  position: absolute;
+  top: 725px;
+  left: 0px;
+  width: 1440px;
+  height: 175px;
+  overflow: visible;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac #s-Rectangle_2 {
+  position: absolute;
+  top: 183px;
+  left: 207px;
+  width: 1199px;
+  height: 526px;
+  background-color: #FFFFFF;
+  background-image: none;
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-top-color: #404040;
+  border-right-width: 2px;
+  border-right-style: solid;
+  border-right-color: #404040;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #404040;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-left-color: #404040;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  line-height: 19px;
+  font-size: 10.0pt;
+  font-family: Arial,Arial;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac #s-Rectangle_2 .valign {
+  vertical-align: top;
+  text-align: left;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac #s-Rectangle_2 span {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: Arial,Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac #s-Rectangle_2 span#rtr-s-Rectangle_2_0 {
+  color: #333333;
+  text-align: left;
+  text-decoration: none;
+  font-family: Arial,Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac #s-Text_23 {
+  position: absolute;
+  top: 148px;
+  left: 189px;
+  width: auto;
+  height: auto;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  cursor: pointer;
+  font-size: 10.0pt;
+  font-family: Roboto-Regular,Arial;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac #s-Text_23 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac #s-Text_23 span {
+  color: #4A86E8;
+  text-align: left;
+  text-decoration: underline;
+  font-family: Roboto-Regular,Arial;
+  font-size: 10.0pt;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac #s-Text_23 span#rtr-s-Text_23_0 {
+  color: #4A86E8;
+  text-align: left;
+  text-decoration: underline;
+  font-family: Roboto-Regular,Arial;
+  font-size: 10.0pt;
+  line-height: 0px;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac #s-Text_24 {
+  position: absolute;
+  top: 148px;
+  left: 231px;
+  width: auto;
+  height: auto;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  cursor: pointer;
+  font-size: 10.0pt;
+  font-family: Roboto-Regular,Arial;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac #s-Text_24 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac #s-Text_24 span {
+  color: #4A86E8;
+  text-align: left;
+  text-decoration: underline;
+  font-family: Roboto-Regular,Arial;
+  font-size: 10.0pt;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac #s-Text_24 span#rtr-s-Text_24_0 {
+  color: #4A86E8;
+  text-align: left;
+  text-decoration: underline;
+  font-family: Roboto-Regular,Arial;
+  font-size: 10.0pt;
+  line-height: 0px;
+}
+#s-e0a26580-6a99-4641-bc83-c0f55558a0ac > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
